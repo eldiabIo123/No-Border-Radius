@@ -2,7 +2,7 @@
 Set border radius to 0px on all websites / Ustawia border radius na 0px na wszystkich stronach [AI generated]
 
 # How to turn it on / Jak to włączyć
-1. Go to the <browser name>://extensions / Idź na strone <nazwa-przeglądarki>://extensions
+1. Go to the <browsername>://extensions / Idź na strone <nazwa-przeglądarki>://extensions
 
 2. Turn on developer mode (Right up corner) / Włącz tryb dewelopera (Prawy górny róg)
 
