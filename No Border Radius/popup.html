@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pl" style="background-color: black;color: white; width: 300px;">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>No Border Radius</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 10px; }
+    button { margin: 5px 0; padding: 5px 10px; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <h3>No Border Radius</h3>
+  <p>Ustawienia dla tej strony:</p>
+  <button id="toggle">Włącz</button>
+  <label>
+    <input type="checkbox" id="important" />
+    Użyj <code>!important</code>
+  </label>
+  <hr />
+  <p>Globalne ustawienia:</p>
+  <label>
+    <input type="checkbox" id="autoEnable" />
+    Automatyczne włączanie na każdej stronie
+  </label>
+  <script src="popup.js"></script>
+</body>
+</html>
